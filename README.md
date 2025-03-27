@@ -1,2 +1,2 @@
-# gautam-s_portfolio
+# gautam_portfolio
 Analytics Portfolio
